@@ -14,7 +14,7 @@ import java.sql.SQLException;
 public class Conexão {
    private static final String URL = "jdbc:postgresql://localhost:5432/postgre";
     private static final String USER = "postgre";
-    private static final String PASSWORD = "#lU02070312301";
+    private static final String PASSWORD = "************";
 
     public static Connection getConnection() throws SQLException {
         return DriverManager.getConnection(URL, USER, PASSWORD);
