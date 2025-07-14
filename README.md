@@ -8,7 +8,7 @@ Nosso aplicativo vem para ajudar e concientizar sobre como esta a saude do usuar
 
 ## Sobre o aplicativo
 
-Desenvolvemos o aplicativo utilizando o Netbeans e o PostgreSQL. Nele utilizamos a linguagem de progamação java para desenvolver o frontAnd junto com o BackAnd fazendo integração com o postgre. 
+Desenvolvemos o aplicativo utilizando o Netbeans e o PostgreSQL. Nele utilizamos a linguagem de progamação java para desenvolver o frontAnd junto com o BackAnd e o Banco de dados com o postgre. 
 
 
 ## Informações extra
